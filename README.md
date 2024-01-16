@@ -11,7 +11,7 @@ Tufts University MS, MPH | GPA: 3.92 | Graduation: May 2024
 - Other relevant courses: Survey Research, Principles of Biostatistics, Data Wrangling, Intro to SAS, Principles of Epidemiology, Intermediate Epidemiology, Nutritional Epidemiology
 
 St. Catherine University BS in Dietetics | GPA 3.97 | May 2021
-Progam Experiences:
+####Progam Experiences:
   - Senior Honors Project on the local food system in the Twin Cities (MN). Highlighted community organizations working to address food insecurity, health disparities, environmental racism, and food sovereignty in the food system. Interviewed relevant staff to produce a series of vignettes. Discussed what still needs to be addressed to create a sustainable and equitable food system locally and nationally.
   - Capstone Paper and Presentation on injustices associated with modern and conventional agricultural practices: Outlined how common agricultural practices impact the environment, biodiversity, animal health, and human health. Additionally, documented how those practices are interwoven with, and perpetuate, environmental, racial, and social injustices and the need for sustainable farming practices.
   - Co-author on a paper accepted for publication, titled “A Campus-Based Community Clinic and Food-Shelf Join Efforts to Reduce Food Insecurity Using a One Health Approach Toward Building a Vibrant Living System.” This paper was published in the Journal of American College Health. It describes how the One Health concept, which emphasizes the intersectionality of human, animal, and environmental health, is modeled on St. Kate’s campus. 
